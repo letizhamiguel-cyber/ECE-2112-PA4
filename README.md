@@ -6,10 +6,10 @@ The content of this repository contains the Experiment 4: Data Wrangling and Dat
 # Intended Learning Outcomnes
 
 At the end of this laboratory activity, the student should be able to:
-1. filter tabular data using several categorical and numerical conditions;
-2. construct focused DataFrames by selecting relevant features;
-3. summarize the relationship between categorical features and a numerical variable; and
-4. communicate a data comparison using clear and correctly labeled plots.
+1. Filter tabular data using several categorical and numerical conditions;
+2. Construct focused DataFrames by selecting relevant features;
+3. Summarize the relationship between categorical features and a numerical variable; and
+4. Communicate a data comparison using clear and correctly labeled plots.
 
 # Programming Problems
 
