@@ -11,7 +11,6 @@ At the end of this laboratory activity, the student should be able to:
 3. Summarize the relationship between categorical features and a numerical variable; and
 4. Communicate a data comparison using clear and correctly labeled plots.
 
--------------
 > Denoted in the filename `board2.xlsx`, the **ECE Board Exam 2** dataset was utilized for this experiment.
 
 # Programming Problems
