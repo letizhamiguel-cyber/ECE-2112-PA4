@@ -15,7 +15,7 @@ At the end of this laboratory activity, the student should be able to:
 
 **A. VISAYAS COMMUNICATION DATAFRAME**
 
-Create a DataFrame containing students whose **Hometown** is **Visayas** and whose **Track** is **Communication**.
+>_Create a DataFrame containing students whose **Hometown** is **Visayas** and whose **Track** is **Communication**.
 
 The following functions and methods were used in this problem:
 
