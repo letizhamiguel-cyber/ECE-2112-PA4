@@ -14,12 +14,17 @@ At the end of this laboratory activity, the student should be able to:
 # Programming Problems
 
 **A. VISAYAS COMMUNICATION DATAFRAME**
+
 Create a DataFrame containing students whose Hometown is Visayas and whose Track is Communication.
+
 --------------
 
 **B. VISAYAS FEMALE DATAFRAME**
+
 Create a second DataFrame containing students whose Hometown is Visayas and whose Gender is Female, then display their Average of at least 60.
+
 --------------
 
 **C. CATEGORY-AVERAGE VISUALIZATION**
+
 Compute the mean of Average for every category using Pandas
