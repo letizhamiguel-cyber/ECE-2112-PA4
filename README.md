@@ -17,7 +17,7 @@ At the end of this laboratory activity, the student should be able to:
 
 Create a DataFrame containing students whose **Hometown** is **Visayas** and whose **Track** is **Communication**.
 
->The following functions and methods were used in this problem:
+The following functions and methods were used in this problem:
 
 --------------
 
@@ -25,7 +25,7 @@ Create a DataFrame containing students whose **Hometown** is **Visayas** and who
 
 Create a second DataFrame containing students whose **Hometown** is **Visayas** and whose **Gender** is **Female**, then display their **Average** of **at least 60**.
 
->The following functions and methods were used in this problem:
+The following functions and methods were used in this problem:
 
 --------------
 
@@ -38,7 +38,7 @@ Across the three categorical features: **Track**, **Gender**, and **Hometown**, 
 3. Create one figure containing three bar charts: mean Average by Track, by Gender, and by Hometown.
 4. Below the figure, write three concise statements identifying the category with the highest sample mean for each feature.
 
->The following functions and methods were used in this problem:
+The following functions and methods were used in this problem:
 
 --------------
 
