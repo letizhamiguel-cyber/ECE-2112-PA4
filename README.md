@@ -17,14 +17,27 @@ At the end of this laboratory activity, the student should be able to:
 
 Create a DataFrame containing students whose Hometown is Visayas and whose Track is Communication.
 
+The following functions and methods were used in this problem:
+
 --------------
 
 **B. VISAYAS FEMALE DATAFRAME**
 
 Create a second DataFrame containing students whose Hometown is Visayas and whose Gender is Female, then display their Average of at least 60.
 
+The following functions and methods were used in this problem:
+
 --------------
 
 **C. CATEGORY-AVERAGE VISUALIZATION**
 
-Compute the mean of Average for every category using Pandas
+Across the three categorical features: Track, Gender, and Hometown, examine the recorded Average. The following shall be accomplished:
+
+a. For each feature, compute the mean of Average for every category using Pandas.
+b. Display the three summary tables.
+c. Create one figure containing three bar charts: mean Average by Track, by Gender, and by Hometown.
+d. Below the figure, write three concise statements identifying the category with the highest sample mean for each feature.
+
+The following functions and methods were used in this problem:
+
+--------------
