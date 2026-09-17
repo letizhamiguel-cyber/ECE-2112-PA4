@@ -31,12 +31,12 @@ The following functions and methods were used in this problem:
 
 **C. CATEGORY-AVERAGE VISUALIZATION**
 
-Across the three categorical features: Track, Gender, and Hometown, examine the recorded Average. The following shall be accomplished:
+Across the three categorical features: **Track**, **Gender**, and **Hometown**, examine the recorded Average. The following shall be accomplished:
 
-a. For each feature, compute the mean of Average for every category using Pandas.
-b. Display the three summary tables.
-c. Create one figure containing three bar charts: mean Average by Track, by Gender, and by Hometown.
-d. Below the figure, write three concise statements identifying the category with the highest sample mean for each feature.
+1. For each feature, compute the mean of Average for every category using Pandas.
+2. Display the three summary tables.
+3. Create one figure containing three bar charts: mean Average by Track, by Gender, and by Hometown.
+4. Below the figure, write three concise statements identifying the category with the highest sample mean for each feature.
 
 The following functions and methods were used in this problem:
 
