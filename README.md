@@ -50,8 +50,10 @@ To see the full python program for PA 4, click this link: , download then run al
 
 # README file History:
 
-September 17, 2026 - Initial Formatting of README & .ipynb file uploaded to GitHub.
+September 17, 2026 - Initial Formatting of README.
 
-// September 1, 2026 - Input of further README content. 
+September 23, 2026 - .ipynb file uploaded to GitHub. 
+
+// September 23, 2026 - Input of further README content. 
 
 // September 2, 2026 - Finalization of README with file history and key details.
